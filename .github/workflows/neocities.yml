@@ -5,7 +5,7 @@ on:
     - cron: '42 13 * * *'
   push:
     branches:
-      - master
+      - main
 
 env:
   TOKEN: ${{ secrets.GITHUB_TOKEN }}
