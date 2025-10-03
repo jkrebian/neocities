@@ -1,3 +1,3 @@
-module github.com/victoriadrake/neofeed-theme/v2
+module github.com/jkrebian/neocities
 
-go 1.16
+go 1.25
