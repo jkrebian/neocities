@@ -2,6 +2,6 @@ exclude: ["archetypes", "exampleSite", "layouts", "theme.toml"]
 
 module:
   hugoVersion:
-    extended: false
+    extended: true
     max: ""
     min: ""
