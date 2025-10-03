@@ -1,6 +1,6 @@
 name = "Jkrebian"
 license = "MIT"
-licenselink = "https://github.com/jkrebian/neocities/blob/main/LICENSE"
+licenselink = "https://github.com/jkrebian/neocities/blob/master/LICENSE"
 description = "Project Neocities."
 homepage = "https://github.com/jkrebian/neocities/"
 tags = ["personal","timeline","feed","mobile","light","dark","dark mode","customizable","plausible"]
